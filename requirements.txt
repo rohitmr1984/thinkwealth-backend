@@ -1,6 +1,6 @@
-fastapi
-uvicorn
-pandas
-pandas-ta
-vectorbt
+fastapi==0.110.0
+uvicorn==0.29.0
+pandas==2.2.2
+pandas-ta==0.3.14b0
+vectorbt==0.25.4
 setuptools
